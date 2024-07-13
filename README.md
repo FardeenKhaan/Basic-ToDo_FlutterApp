@@ -1,16 +1,10 @@
 # to_do_app
 
-A new Flutter project.
+A basic To-Do Flutter project.
 
-## Getting Started
+In this Flutter project we can search any list of our own which is in this app or we can create and delete list ourselves.
 
-This project is a starting point for a Flutter application.
+# Output
+![10](https://github.com/user-attachments/assets/7709297a-358f-4952-936c-e22fc6d8ddcd)
+![11](https://github.com/user-attachments/assets/dd82d702-15d3-4792-9043-301a5a7a8041)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
